@@ -15,9 +15,9 @@ So, gear up for an adventure and explore the wonders of nature with confidence. 
 ## Team ID: C23-PR591
 | No  |  ID Student   |      Name Student            |       Path         |            University            |
 |:---:|:--------------|:-----------------------------|:-------------------|:---------------------------------|
-|  1  |  M172DSX2178  |  Erlan Herlangga             | Machine Learning   |  Univesitas Gunadarma            |
-|  2  |  M287DKY4820  |  Nuri Fathriya Mardlatillah  | Machine Learning   |  Univesitas Negri Surabaya       |
+|  1  |  M172DSX2178  |  Erlan Herlangga             | Machine Learning   |  Universitas Gunadarma            |
+|  2  |  M287DKY4820  |  Nuri Fathriya Mardlatillah  | Machine Learning   |  Universitas Negri Surabaya       |
 |  3  |  M210DSY2838  |  Dhea Ulhaq Haryani Putri    | Machine Learning   |  Universitas Jenderal Soedirman  |
 |  4  |  C205DSX3245  |  Mohammad Luqi Wiharto       | Cloud Computing    |  Universitas Islam Sultan Agung  |
-|  5  |  C172DSX2693  |  Mahdy Mubasyir              | Cloud Computing    |  Univesitas Gunadarma            |
+|  5  |  C172DSX2693  |  Mahdy Mubasyir              | Cloud Computing    |  Universitas Gunadarma            |
 |  6  |  A366DKX4272  |  Farhan Reynaldi Valerian    | Mobile Development |  Universitas Trunojoyo           |
