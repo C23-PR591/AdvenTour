@@ -1,15 +1,7 @@
 ![Capstone - Bangkit](/background.png)
 
 # About The AdvenTour
-Hi, Ventourians, welcome to AdvenTour. We are here to help you find the ideal hiking destination based on your preferences and needs.
-
-Are you looking for a challenging experience? Or perhaps you're more interested in breathtaking natural scenery? AdvenTour Apps takes into account various factors such as difficulty level, scenic beauty, and accessibility to provide personalized recommendations tailored to your conditions.
-
-But that's not all! We also care about your expenses. AdvenTour Apps will assist you in finding cost-effective destinations. We offer suggestions on affordable accommodations, budget-friendly transportation options, and even local attractions that you shouldn't miss.
-
-We understand the importance of accurate information in the decision-making process. Therefore, AdvenTour Apps guarantees the accuracy of the data we provide. With access to up-to-date information, you can make informed decisions with confidence when choosing your destination.
-
-So, gear up for an adventure and explore the wonders of nature with confidence. Start your thrilling journey with AdvenTour Apps, the app that guides you toward unforgettable mountain hikes.
+Hi, Ventourians, welcome to AdvenTour. Adventour is an application that will make it easy to choose a mountain destination that suits your preferences and adventure needs! By using Adventour, you will experience an interactive and adventurous experience in finding the right mountain destination. The app will provide recommendations tailored to your interests, so you can easily choose a mountain tourist location that suits your liking. There's no need to worry about lacking accurate information, as Adventour provides access to detailed information about each mountain, including its stunning natural beauty, climbing difficulty level, available facilities, as well as reviews and recommendations from other experienced climbers. With the help of Adventour, you can plan a climbing trip that is satisfying and according to your personal preferences. What are you waiting for? Start your adventure now with Adventour!
 
 # Team Members
 ## Team ID: C23-PR591
